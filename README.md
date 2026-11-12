@@ -28,7 +28,7 @@ sent to Earth when the link opens.
 |---|---|
 | [**Demo video** (Google Drive)](https://drive.google.com/file/d/1djFboQ6O8qQLctbERtOGhY7Jhwdl2wvl/view?usp=sharing) | The project demo submitted to NASA Space Apps |
 | [30-second demo](docs/videos/orbitfit-demo-30s.mp4) | "Halfway to Mars": an emergency, the daily routine, a trend alert with a forecast, the crew view and a report to Earth |
-| [Live walkthrough (under 2 min)](docs/videos/orbitfit-live-walkthrough.mp4) | A real screen recording: a new mission is set up and dummy values are typed in, then the camera workout, the gravity slider, emergency, forecast, a report reaching Earth and the logbook |
+| [Full demo (1:48)](docs/videos/orbitfit-pitch-demo.mp4) | The app in action: the gravity engine re-plans a squat for Earth, Mars, the Moon and zero g, the camera tracks every rep, the app keeps working through a comms blackout, and the tests behind it |
 
 ## Screenshots
 
