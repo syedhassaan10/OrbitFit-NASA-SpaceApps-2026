@@ -1,0 +1,9 @@
+# Normalise line endings so a clone behaves the same on Windows, Mac and Linux.
+* text=auto eol=lf
+*.bat text eol=crlf
+
+# Bundled model and demo clip are byte-exact: never touch them.
+*.task binary
+*.mp4 binary
+*.png binary
+*.jpg binary

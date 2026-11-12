@@ -1,0 +1,20 @@
+[theme]
+base = "light"
+primaryColor = "#0284c7"
+backgroundColor = "#f7f9ff"
+secondaryBackgroundColor = "#eef2fb"
+textColor = "#0f172a"
+font = "sans serif"
+
+[browser]
+# Nothing leaves this computer: no usage statistics.
+gatherUsageStats = false
+
+[server]
+# start.bat and start.sh add --server.address localhost, so on a crew laptop only that computer can open the app.
+# The address is not set here so a hosted copy (for example a public demo) can serve it if ever needed.
+headless = false
+maxUploadSize = 200
+
+[client]
+toolbarMode = "minimal"
