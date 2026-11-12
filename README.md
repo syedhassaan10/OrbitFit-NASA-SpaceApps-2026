@@ -11,7 +11,7 @@ sent to Earth when the link opens.
 
 ![OrbitFit crew home: status, today's routine and the four daily steps](docs/screenshots/01-crew-home.jpg)
 
-**▶ [Watch the demo video](https://drive.google.com/file/d/1djFboQ6O8qQLctbERtOGhY7Jhwdl2wvl/view?usp=sharing)** (Google Drive)
+**▶ [Watch the demo video](https://drive.google.com/file/d/1agNDa7pG4Umwujnx5wJJ-vpjDdNhkPWo/view?usp=sharing)** (Google Drive)
 
 > Prototype decision-support tool. Not a medical device. Thresholds are demonstration values, not clinically validated.
 
@@ -26,7 +26,7 @@ sent to Earth when the link opens.
 
 | Video | What it shows |
 |---|---|
-| [**Demo video** (Google Drive)](https://drive.google.com/file/d/1djFboQ6O8qQLctbERtOGhY7Jhwdl2wvl/view?usp=sharing) | The project demo submitted to NASA Space Apps |
+| [**Demo video** (Google Drive)](https://drive.google.com/file/d/1agNDa7pG4Umwujnx5wJJ-vpjDdNhkPWo/view?usp=sharing) | The project demo submitted to NASA Space Apps |
 | [30-second demo](docs/videos/orbitfit-demo-30s.mp4) | "Halfway to Mars": an emergency, the daily routine, a trend alert with a forecast, the crew view and a report to Earth |
 | [Full demo (1:48)](docs/videos/orbitfit-pitch-demo.mp4) | The app in action: the gravity engine re-plans a squat for Earth, Mars, the Moon and zero g, the camera tracks every rep, the app keeps working through a comms blackout, and the tests behind it |
 
