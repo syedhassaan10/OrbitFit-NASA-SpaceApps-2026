@@ -75,7 +75,7 @@ A webcam is optional: **Demo Mode** plays a bundled squat video.
 **1. Get the code:** on GitHub, **Code → Download ZIP** and unzip it, or:
 
 ```bash
-git clone https://github.com/syedhassaan10/Astronaut-Health-Monitor-NASA-SPACE-APP-CHALLENGE-2026.git
+git clone https://github.com/syedhassaan10/OrbitFit-NASA-SpaceApps-2026.git
 ```
 
 **2. Start it**
@@ -175,7 +175,7 @@ and on the app's Sources page.
 python -m pytest -q
 ```
 
-327 tests cover the pose maths, rep detector, form scoring, gravity engine, every health, vitals and radiation
+328 tests cover the pose maths, rep detector, form scoring, gravity engine, every health, vitals and radiation
 rule, emergency triage, the digital twin, demo data, CSV round trip, the logbook, the downlink (retry, blackout,
 duplicates), the real pose model on the demo clip, every page rendering, and the offline and wording rules.
 
