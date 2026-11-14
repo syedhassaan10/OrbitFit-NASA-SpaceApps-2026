@@ -1,4 +1,4 @@
-"""Forecast: what could happen over the coming weeks. Hudebia Shaikh's digital twin (fatigue, sleep and
+"""Forecast: what could happen over the coming weeks. A digital twin (fatigue, sleep and
 motion sickness), a bone-loss projection and daily energy needs. Models and estimates, not measurements."""
 
 import plotly.graph_objects as go
@@ -42,7 +42,7 @@ sleep_quality = sum(recent_sleep) / len(recent_sleep) / 10 if recent_sleep else 
 
 with theme.card():
     theme.html_block('<div class="of-row"><span class="of-title">Fatigue and motion sickness</span>'
-                     '<span class="of-right of-label">digital twin by Hudebia Shaikh</span></div>'
+                     '<span class="of-right of-label">digital twin · simulated</span></div>'
                      '<div class="of-big" style="margin-top:0.3rem">Simulates many possible missions for '
                      f'{theme.esc(crew.name)} and shows the range of fatigue and motion-sickness risk.</div>')
     seeded = "your last 7 days" if recent_hr or recent_sleep else "default values (no readings yet)"
@@ -126,7 +126,7 @@ with theme.card():
     fb.add_trace(go.Scatter(x=bone["days"], y=bone["ref_high"], line=dict(color=theme.BAD, width=1.5, dash="dash"),
                             name=f"{high:g} % a month, no exercise"))
     st.plotly_chart(fb, key="bone_projection", config={"displayModeBar": False})
-    st.caption("A simple compound-loss projection (from Hudebia Shaikh's app), not a bone scan. "
+    st.caption("A simple compound-loss projection, not a bone scan. "
                "OrbitFit does not measure bone density.")
 
 # ---- 3. daily energy needs -------------------------------------------------------------------

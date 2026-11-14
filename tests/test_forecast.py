@@ -1,4 +1,4 @@
-"""Forecast page pieces: Hudebia Shaikh's digital twin, the bone-loss projection and energy needs."""
+"""Forecast page pieces: the digital twin, the bone-loss projection and energy needs."""
 
 import pytest
 

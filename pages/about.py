@@ -93,6 +93,6 @@ st.markdown(
 
 st.subheader("Team")
 st.write("Built for the NASA Space Apps Challenge 2026 by Syed Hassaan Areeb Kazmi (Team Owner), Azam Tariq "
-         "(Developer), Mohammad Bin Javed (Developer), Hudebia Shaikh (Developer) and Eman Fatima (UI/UX Designer).")
+         "(Developer) and Mohammad Bin Javed (Developer).")
 
 state.footer()

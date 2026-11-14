@@ -140,7 +140,7 @@ The app only listens on this computer: no health data is served to the network.
 - **Health rules:** each person's baseline is the median of their first 3 valid sessions; recent medians are compared
   with it. Check-in, vital-sign and radiation rules sit alongside. All thresholds are in one file,
   [config/health_rules.py](config/health_rules.py).
-- **Forecast:** Hudebia Shaikh's digital twin, a Monte Carlo of the Borbély sleep model coupled with a vestibular
+- **Forecast:** a digital twin, a Monte Carlo of the Borbély sleep model coupled with a vestibular
   (motion-sickness) model, in [digital_twin/](digital_twin/).
 - **Logbook:** every rep is saved to SQLite the moment it ends, so a crash loses nothing.
 
@@ -223,5 +223,5 @@ As the NASA Space Apps rules require, here is where Super Intelligence (SI) tool
 
 ## Team and licence
 
-Syed Hassaan Areeb Kazmi (Team Owner), Azam Tariq (Developer), Mohammad Bin Javed (Developer), Hudebia Shaikh
-(Developer), Eman Fatima (UI/UX Designer). MIT License, see [LICENSE](LICENSE).
+Syed Hassaan Areeb Kazmi (Team Owner), Azam Tariq (Developer), Mohammad Bin Javed (Developer). MIT License, see
+[LICENSE](LICENSE).

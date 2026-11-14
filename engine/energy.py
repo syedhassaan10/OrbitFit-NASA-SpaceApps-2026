@@ -1,4 +1,4 @@
-"""Daily energy needs (kcal), from Hudebia Shaikh's health monitor: Mifflin-St Jeor resting energy times an
+"""Daily energy needs (kcal): Mifflin-St Jeor resting energy times an
 activity factor. An estimate for planning meals, not a measurement."""
 
 ACTIVITY_FACTORS = {
