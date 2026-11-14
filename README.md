@@ -20,7 +20,7 @@ sent to Earth when the link opens.
 [Demo videos](#demo-videos) · [Screenshots](#screenshots) · [Features](#features) ·
 [How to run locally](#how-to-run-locally) · [Try it in 2 minutes](#try-it-in-2-minutes) ·
 [How it works](#how-it-works) · [NASA data](#nasa-data-and-resources) · [Project structure](#project-structure) ·
-[Tests](#tests) · [Team](#team-and-licence)
+[Tests](#tests) · [Use of AI tools](#use-of-ai-tools) · [Team](#team-and-licence)
 
 ## Demo videos
 
@@ -205,6 +205,21 @@ duplicates), the real pose model on the demo clip, every page rendering, and the
 - **Pose model:** MediaPipe Pose Landmarker (lite) by Google, CC BY 4.0.
 - **Demo clip:** "A Woman Doing Squats" by Julia Larson, via Pexels (Pexels License).
 - **CPR steps:** follow the 2025 American Heart Association guidelines.
+
+## Use of AI tools
+
+As the NASA Space Apps rules require, here is where AI tools were used:
+
+- **Code:** an AI coding assistant helped write and debug parts of the code and tests, to speed up development.
+  The team designed the features, reviewed and tested all code (328 automated tests), and checked every NASA figure
+  against its source.
+- **Text:** AI helped draft parts of the documentation.
+- **Audio:** the voice-over in the demo videos is AI text-to-speech (Kokoro-82M). This is also noted in the video
+  files' metadata.
+- **Not AI-generated:** the videos' visuals are real screen recordings of the app and code-made animations. No
+  AI-generated images are used, and no NASA logos or branding appear in the project.
+- **In the app:** OrbitFit uses an on-device pose model (MediaPipe) to track exercise. It uses no generative AI and
+  needs no internet.
 
 ## Team and licence
 
