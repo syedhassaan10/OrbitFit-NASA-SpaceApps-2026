@@ -11,7 +11,7 @@ sent to Earth when the link opens.
 
 ![OrbitFit crew home: status, today's routine and the four daily steps](docs/screenshots/01-crew-home.jpg)
 
-**▶ [Watch the demo video](https://drive.google.com/file/d/1agNDa7pG4Umwujnx5wJJ-vpjDdNhkPWo/view?usp=sharing)** (Google Drive)
+**▶ [Watch the demo video](https://drive.google.com/file/d/1Jqn3-W0vT4iBplWot8wUua6wsywP6X5x/view?usp=sharing)** (Google Drive)
 
 > Prototype decision-support tool. Not a medical device. Thresholds are demonstration values, not clinically validated.
 
@@ -26,7 +26,7 @@ sent to Earth when the link opens.
 
 | Video | What it shows |
 |---|---|
-| [**Demo video** (Google Drive)](https://drive.google.com/file/d/1agNDa7pG4Umwujnx5wJJ-vpjDdNhkPWo/view?usp=sharing) | The project demo submitted to NASA Space Apps |
+| [**Demo video** (Google Drive)](https://drive.google.com/file/d/1Jqn3-W0vT4iBplWot8wUua6wsywP6X5x/view?usp=sharing) | The 30-second pitch submitted to NASA Space Apps |
 | [30-second demo](docs/videos/orbitfit-demo-30s.mp4) | "Halfway to Mars": an emergency, the daily routine, a trend alert with a forecast, the crew view and a report to Earth |
 | [Full demo (1:48)](docs/videos/orbitfit-pitch-demo.mp4) | The app in action: the gravity engine re-plans a squat for Earth, Mars, the Moon and zero g, the camera tracks every rep, the app keeps working through a comms blackout, and the tests behind it |
 
@@ -210,10 +210,6 @@ duplicates), the real pose model on the demo clip, every page rendering, and the
 
 As the NASA Space Apps rules require, here is where AI tools were used:
 
-- **Code:** an AI coding assistant helped write and debug parts of the code and tests, to speed up development.
-  The team designed the features, reviewed and tested all code (328 automated tests), and checked every NASA figure
-  against its source.
-- **Text:** AI helped draft parts of the documentation.
 - **Audio:** the voice-over in the demo videos is AI text-to-speech (Kokoro-82M). This is also noted in the video
   files' metadata.
 - **Not AI-generated:** the videos' visuals are real screen recordings of the app and code-made animations. No
